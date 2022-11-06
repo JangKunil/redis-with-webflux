@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="65465d16-3cd5-4410-98a1-fb8dc7f19487" name="변경" comment="redis ㅍ">
+    <list default="true" id="65465d16-3cd5-4410-98a1-fb8dc7f19487" name="변경" comment="redis performance 측정용 MVC 모듈 추가">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -58,7 +58,14 @@
       <option name="project" value="LOCAL" />
       <updated>1667119422957</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="redis performance 측정용 MVC 모듈 추가">
+      <created>1667401615936</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1667401615937</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -76,6 +83,7 @@
     <MESSAGE value="캐싱을 이용한 고확장성 Reactive Microservices &#10;- 테스트 파일 init" />
     <MESSAGE value="redis 캐싱을 이용한 고확장성 Reactive Microservices &#10;- 테스트 파일 init" />
     <MESSAGE value="redis 자료구조 테스트 코드 추가" />
-    <option name="LAST_COMMIT_MESSAGE" value="redis 자료구조 테스트 코드 추가" />
+    <MESSAGE value="redis performance 측정용 MVC 모듈 추가" />
+    <option name="LAST_COMMIT_MESSAGE" value="redis performance 측정용 MVC 모듈 추가" />
   </component>
 </project>
